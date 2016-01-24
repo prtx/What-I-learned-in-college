@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 class Stack:
 	
 	#initialize stack and top

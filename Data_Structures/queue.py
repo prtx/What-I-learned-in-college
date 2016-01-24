@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 class Queue:
 	
 	#initialize queue and top

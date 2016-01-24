@@ -1,6 +1,4 @@
-#!/usr/bin/python
-
-from node import Node
+from list_node import Node
 
 class SLL:
 	
